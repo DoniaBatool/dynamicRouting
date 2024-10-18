@@ -8,7 +8,7 @@ const PakistanDescription = () => {
       
       <p className="text-base leading-7">
         Pakistan, officially known as the Islamic Republic of Pakistan, <br />
-        is a country located in South Asia. It is the world's fifth-most
+        is a country located in South Asia. It is the world fifth-most
         populous country, <br />
         with over 240 million people, and the second-largest Muslim-majority
         nation. Pakistan shares <br />

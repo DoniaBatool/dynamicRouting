@@ -5,9 +5,9 @@ const IranDescription = () => {
     <div className="p-6">
       
       <p className="text-base leading-7">
-      It is the sixth-largest country entirely in Asia and one of the world's most mountainous countries.<br/>
+      It is the sixth-largest country entirely in Asia and one of the world most mountainous countries.<br/>
       Officially an Islamic republic, Iran has a Muslim-majority population. The country is divided into <br/>
-      five regions with 31 provinces.Tehran is the nation's capital, largest city and financial center.<br/>
+      five regions with 31 provinces.Tehran is the nations capital, largest city and financial center.<br/>
       </p>
     </div>
   );

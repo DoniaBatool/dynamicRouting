@@ -5,17 +5,8 @@ import PalestineDescription, { PalestineGallery } from "../../../../components/p
 import IranDescription, { IranGallery } from "../../../../components/iran";
 import YemenDescription, { YemenGallery } from "../../../../components/yemen";
 import LebanonDescription, { LebanonGallery } from "../../../../components/lebanon";
+import { Country_Name } from "../../../../components/types";
 
-type Country_Name = {
-  CountryName: string;
-  Capital: string;
-  Population: string;
-  flag: string;
-  description: JSX.Element;
-  Link: string;
-  image: string;
-  Gallery: JSX.Element;
-};
 
 const CountryName: Country_Name[] = [
   {
